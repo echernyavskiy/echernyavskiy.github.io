@@ -1,2 +1,1 @@
-# echernyavskiy.github.io
-Personal website.
+# Personal website.
